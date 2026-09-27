@@ -1,0 +1,4 @@
+com\chess\analyzer\StockfishService.class
+com\chess\analyzer\AnalysisController.class
+com\chess\analyzer\ChessAnalyzerApplication.class
+com\chess\analyzer\StockfishService$AnalysisResult.class
